@@ -13,7 +13,7 @@ name_hash.each do |key, value|
     min_key=key
   end
 end
-puts value
+puts min_key
 return min_key
 
 end
